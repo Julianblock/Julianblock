@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Founder of **Dreamcatcher** (AI dream interpretation) and **Project LUX∞** (AI-driven optics & manifold simulation).
+- 🌎 Based in **Las Vegas, NV**, proud husband, even prouder father, and always looking for more to learn.
 - 💻 Full-stack engineer passionate about **AI modeling, frontend mastery, backend architecture, and scientific R&D**.
 - 🔭 Currently leading innovation at **Koin Payments** — fusing AI, finance, and technology.
+- 🧠 Founder of **Dreamcatcher** (AI dream interpretation) and **Project LUX∞** (AI-driven optics & manifold simulation).
 - 🎯 Always exploring **optical physics, geometric topology, machine learning, and dream exploration**.
-- 🌎 Based in **Las Vegas, NV**, proud husband, even prouder father, and always looking for more to learn.
 
 ---
 
