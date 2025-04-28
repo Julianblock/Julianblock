@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🧠 Founder of **Dreamcatcher** (AI dream interpretation) and **Project LUX∞** (AI-driven optics & manifold simulation).
 - 💻 Full-stack engineer focused on **React.js, Node.js, Flask, AI modeling**, and **scientific R&D**.
-- 🔭 Currently leading AI, web, and mobile innovation at **Ramsey Mediaworks**.
+- 🔭 Currently leading AI, web, and mobile innovation at **Koin Payments**.
 - 🎯 Passionate about **optical physics, geometric topology, frontend architecture,** and **AI solutions**.
 - 🎵 Lifelong musician weaving tech, art, and creativity together.
 - 🌎 Based in **Las Vegas, NV**, pushing boundaries one project at a time.
