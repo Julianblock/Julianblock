@@ -1,73 +1,91 @@
 <h1 align="center">Hey there 👋, I'm Julian Block</h1>
-<h3 align="center">Senior Software Engineer | AI Solutions Architect | Optics R&D Enthusiast</h3>
+<h3 align="center">🚀 Senior Software Engineer | AI Solutions Architect | Optics R&D Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+AI-powered+systems;Crafting+the+future+of+Optics+and+Dreams+Analysis;Transforming+code+into+art+and+innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems+%F0%9F%9A%80;Crafting+the+future+of+Optics+%26+Dream+Analysis+%F0%9F%92%A1;Transforming+code+into+art+and+innovation+%F0%9F%8E%A8;Turning+visions+into+reality+with+AI+%F0%9F%8C%9D" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 - 🧠 Founder of **Dreamcatcher** (AI dream interpretation) and **Project LUX∞** (AI-driven optics & manifold simulation).
-- 💻 Full-stack engineer focused on **React.js, Node.js, Flask, AI modeling**, and **scientific R&D**.
-- 🔭 Currently leading AI, web, and mobile innovation at **Koin Payments**.
-- 🎯 Passionate about **optical physics, geometric topology, frontend architecture,** and **AI solutions**.
-- 🎵 Lifelong musician weaving tech, art, and creativity together.
-- 🌎 Based in **Las Vegas, NV**, pushing boundaries one project at a time.
+- 💻 Full-stack engineer passionate about **AI modeling, frontend mastery, backend architecture, and scientific R&D**.
+- 🔭 Currently leading innovation at **Koin Payments** — fusing AI, finance, and technology.
+- 🎯 Always exploring **optical physics, geometric topology, machine learning, and dream exploration**.
+- 🎵 Lifelong musician — blending the structure of code with the freedom of music.
+- 🌎 Based in **Las Vegas, NV**, chasing the limits of mind and matter.
 
 ---
 
-### 📫 Find me here
-- 🌐 Website: [jblocktech.com](https://jblocktech.com)
-- 🔗 LinkedIn: [linkedin.com/in/julianblock](https://linkedin.com/in/julianblock)
-- 💻 GitHub: [github.com/Julianblock](https://github.com/Julianblock)
-
----
-
-### 🛠️ Tech Stack
-
+### 📫 Connect With Me
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
+  <a href="https://jblocktech.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/julianblock"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Julianblock"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianblock&theme=radical" alt="Julianblock's GitHub Streak" />
-</p>
+### 🛠️ Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianblock&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
 </p>
 
 ---
 
-### 🌌 Current Projects
-- **Infinity Entry AI** — AI-powered check-in & insights platform for businesses.
-- **Project LUX∞** — Redefining telescopic optics with manifold geometry and AI simulation.
-- **Dreamcatcher** — AI-powered dream analysis, blending psychology and deep learning.
+### 📈 GitHub Vitals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianblock&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Julianblock&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianblock&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌌 Current Missions
+🚀 **Infinity Entry AI** — Revolutionizing customer check-ins with predictive AI insights.  
+🔭 **Project LUX∞** — Simulating infinite cosmic zoom through manifold geometry and optical R&D.  
+🌙 **Dreamcatcher** — Mapping the subconscious with AI-powered dream analysis.
 
 ---
 
 ### 🧠 Fun Facts
-- 🎨 I blend **code + music** into narrative projects.
-- 🛰️ Building systems that **simulate infinite zoom** and **manifold geodesics**.
-- 🚀 My life goal: **advance humanity through AI-driven exploration** — of mind, space, and beyond.
+- 🎨 Blending **AI, optics, and music** into immersive experiences.
+- 🛰️ Designing systems that **bend light through mathematical manifolds**.
+- 💬 Fluent in **React, Three.js, Flask, TensorFlow, Supabase, and Optical Physics**.
+- 🚀 Dreaming of **AI-driven exploration beyond Earth**.
 
 ---
 
-*“I turn ideas into architecture, architecture into systems, and systems into stories.”* 🌌
+<p align="center">
+  <img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="500" />
+</p>
+
+---
+
+> *"Code is the vessel. Ideas are the stars. I build the ships that sail between them."* 🌌
 
 ---
