@@ -42,9 +42,7 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julianblock&show_icons=true&theme=radical" alt="Julianblock's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianblock&theme=radical" alt="Julianblock's GitHub Streak" />
