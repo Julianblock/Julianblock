@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer | AI Solutions Architect | Optics R&D Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+AI-powered+systems;Crafting+the+future+of+Optics+and+Dream+Analysis;Transforming+code+into+art+and+innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+AI-powered+systems;Crafting+the+future+of+Optics+and+Dreams+Analysis;Transforming+code+into+art+and+innovation" alt="Typing SVG" />
 </p>
 
 ---
