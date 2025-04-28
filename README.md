@@ -13,7 +13,7 @@
 - 🔭 Currently leading innovation at **Koin Payments** — fusing AI, finance, and technology.
 - 🎯 Always exploring **optical physics, geometric topology, machine learning, and dream exploration**.
 - 🎵 Lifelong musician — blending the structure of code with the freedom of music.
-- 🌎 Based in **Las Vegas, NV**, chasing the limits of mind and matter.
+- 🌎 Based in **Las Vegas, NV**, proud husband, even prouder father, and always looking for more to learn.
 
 ---
 
