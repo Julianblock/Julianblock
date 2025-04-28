@@ -80,6 +80,6 @@
 
 ---
 
-> *"Code is the vessel. Ideas are the stars. I build the ships that sail between them."* 🌌
+> *"Please email me if youd like to collab: jblock@jblocktech.com"* 🌌
 
 ---
