@@ -80,6 +80,6 @@
 
 ---
 
-> *"Please email me if youd like to collab: jblock@jblocktech.com"* 🌌
+> *"Please email me if you want to collab: jblock@jblocktech.com"* 🌌
 
 ---
