@@ -5,12 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=e12e09&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems+%F0%9F%9A%80;Future+of+Optics+%26+Dream+Analysis+%F0%9F%92%A1;Turning+visions+into+reality+with+AI+%F0%9F%8C%9D" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Julianblock&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-
-
 ### 🚀 About Me
 - 🌎 Based in **Las Vegas, NV**, proud husband, even prouder father, and always looking for more to learn.
 - 💻 Full-stack engineer passionate about **AI modeling, frontend mastery, backend architecture, and scientific R&D**.
