@@ -8,6 +8,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Julianblock&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianblock&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Julian's GitHub stats" />
+</p>
+
 
 ### 🚀 About Me
 - 🌎 Based in **Las Vegas, NV**, proud husband, even prouder father, and always looking for more to learn.
