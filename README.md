@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Julian Block Banner" width="100%" />
+  <img src="./banner.png" alt="Julian Block Banner" width="100%" />
 </p>
 
 <h1 align="center" style="color: red">Julian Block</h1>
