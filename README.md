@@ -1,4 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Julian Block</h1>
+<p align="center">
+  <img src="./banner.jpg" alt="Julian Block Banner" width="100%" />
+</p>
+
+<h1 align="center" style="color: red">Julian Block</h1>
 <h3 align="center">🚀 Senior Software Engineer | AI Solutions Architect | Optics R&D Enthusiast 🚀</h3>
 
 <p align="center">
@@ -48,17 +52,16 @@
 ---
 
 ### 🌌 Current Missions
-🚀 **Infinity Entry AI** — Revolutionizing customer check-ins with predictive AI insights.  
+🚀 **ArrivalQR** — Revolutionizing customer surveys with predictive AI insights.  
 🔭 **Project LUX∞** — Simulating infinite cosmic zoom through manifold geometry and optical R&D.  
 🌙 **Dreamcatcher** — Mapping the subconscious with AI-powered dream analysis.
 
 ---
 
 ### 🧠 Fun Facts
-- 🎨 Blending **AI, optics, and music** into immersive experiences.
+- 🎨 Blending **AI, optics, and software development** into immersive experiences.
 - 🛰️ Designing systems that **bend light through mathematical manifolds**.
-- 💬 Fluent in **React, Three.js, Flask, TensorFlow, Supabase, and Optical Physics**.
-- 🚀 Dreaming of **AI-driven exploration beyond Earth**.
+- 💬 **React, Three.js, Flask, TensorFlow, Supabase, and RAG**.
 
 ---
 
