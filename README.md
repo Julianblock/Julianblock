@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Julian Block Banner" width="100%" />
+  <img src="./banner.png" alt="Julian Block Banner" width="55%" />
 </p>
 
 ### 🚀 About Me
