@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="./banner.png" alt="Julian Block Banner" width="55%" />
+  <img src="./github.gif" alt="Julian Block GIF" width="55%" />
 </p>
 
 ### 🚀 About Me
