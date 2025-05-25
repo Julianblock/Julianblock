@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.png" alt="Julian Block Banner" width="55%" />
-  <img src="./github.gif" alt="Julian Block GIF" width="55%" />
+  <img src="./github.gif" alt="Julian Block GIF" width="85%" />
 </p>
 
 ### 🚀 About Me
@@ -18,6 +17,9 @@
 - 🎯 Always exploring **optical physics, geometric topology, machine learning, and AI tech**.
 
 ---
+
+
+<img src="./banner.png" alt="Julian Block Banner" width="65%" />
 
 ### 📫 Connect With Me
 <p align="center">
