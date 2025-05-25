@@ -19,7 +19,9 @@
 ---
 
 
-<img src="./banner.png" alt="Julian Block Banner" width="65%" />
+<p align="center">
+  <img src="./banner.png" alt="Julian Block Banner" width="65%" />
+</p>
 
 ### 📫 Connect With Me
 <p align="center">
