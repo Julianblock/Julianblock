@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 🌎 Based in **Las Vegas, NV**, proud husband, even prouder father, and always looking for more to learn.
 - 💻 Full-stack engineer passionate about **AI modeling, frontend mastery, backend architecture, and scientific R&D**.
-- 🔭 Currently leading innovation at **Koin Payments** — fusing AI, finance, and technology.
+- 🔭 Currently leading innovation at **Silvr.ai** — fusing AI, finance, and ecommerce.
 - 🧠 Founder of **Dreamcatcher** (AI dream interpretation) and **Project LUX∞** (AI-driven optics & manifold simulation).
 - 🎯 Always exploring **optical physics, geometric topology, machine learning, and AI tech**.
 
