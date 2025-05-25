@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./github.gif" alt="Julian Block GIF" width="85%" />
+  <img src="./github.gif" alt="Julian Block GIF" width="55%" />
 </p>
 
 ### 🚀 About Me
