@@ -62,8 +62,6 @@
 🌙 **Dreamcatcher** — Mapping the subconscious with AI-powered dream analysis.
 
 ---
-
-### 🧠 Fun Facts
 - 🎨 Blending **AI, optics, and software development** into immersive experiences.
 - 🛰️ Designing systems that **bend light through mathematical manifolds**.
 - 💬 **React, Three.js, Flask, TensorFlow, Supabase, and RAG**.
