@@ -19,7 +19,7 @@
 - 🚀 Currently pushing boundaries at **Silvr.ai** in fintech + ecommerce intelligence.
 
 ---
-
+<img src="./kitty.gif" />
 ---
 
 ### 🌐 Connect with Me
