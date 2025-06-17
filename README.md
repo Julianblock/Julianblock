@@ -20,10 +20,6 @@
 
 ---
 
-<p align="center">
-  <img src="./banner.png" alt="Julian Block Project Banner" width="70%" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
