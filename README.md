@@ -66,7 +66,7 @@
 ---
 
 ### ⚡ Focus Areas
-- AI architecture (GPT-4, RAG, LLM tuning)
+- AI architecture (GPT-4, RAG, LLM tuning, LangChain, HuggingFace)
 - 3D simulation (Three.js, WebGL, OpenGL)
 - Optical physics & manifold geometry
 - Scalable cloud infra (Supabase, Docker, AWS)
