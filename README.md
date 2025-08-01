@@ -1,5 +1,5 @@
 <h1 align="center">Julian Block</h1>
-<h3 align="center">Senior Software Engineer · AI Architect · Optics R&D Explorer</h3>
+<h3 align="center">AI Architect · AI & Software Solutions Consultant</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Engineering+AI-powered+Systems;Reimagining+Optics+%26+Consciousness;Merging+Math%2C+Code%2C+and+Vision" alt="Typing SVG" />
