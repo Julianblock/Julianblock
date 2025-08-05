@@ -35,25 +35,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-</p>
+<p align="center"> <!-- OpenAI --> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="50" title="OpenAI" /> <!-- Mistral --> <img src="https://avatars.githubusercontent.com/u/139581015?s=200&v=4" width="50" title="Mistral AI" /> <!-- Hugging Face --> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_logo.svg" width="50" title="Hugging Face" /> <!-- LangChain --> <img src="https://avatars.githubusercontent.com/u/139248137?s=200&v=4" width="50" title="LangChain" /> <!-- FastAPI --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" /> <!-- Supabase --> <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50" title="Supabase" /> <!-- Pinecone --> <img src="https://avatars.githubusercontent.com/u/78059591?s=200&v=4" width="50" title="Pinecone" /> <!-- Weaviate --> <img src="https://avatars.githubusercontent.com/u/49764446?s=200&v=4" width="50" title="Weaviate" /> <!-- Ray --> <img src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_logo.png" width="50" title="Ray" /> <!-- ONNX --> <img src="https://onnx.ai/assets/logo.svg" width="50" title="ONNX" /> <!-- Triton --> <img src="https://avatars.githubusercontent.com/u/47718794?s=200&v=4" width="50" title="Triton Inference Server" /> <!-- MLflow --> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="50" title="MLflow" /> <!-- Docker (infra still matters) --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" /> <!-- Kubernetes --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" /> </p>
 
 ---
 
