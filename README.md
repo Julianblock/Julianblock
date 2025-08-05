@@ -23,13 +23,7 @@
 
 <p align="center">
   <!-- LLMs & AI Models -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40" title="OpenAI" style="margin: 6px;" />
-  <img src="https://avatars.githubusercontent.com/u/139581015?s=200&v=4" width="40" title="Mistral AI" style="margin: 6px;" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face" style="margin: 6px;" />
-  <img src="https://avatars.githubusercontent.com/u/139248137?s=200&v=4" width="40" title="LangChain" style="margin: 6px;" />
-  <img src="https://avatars.githubusercontent.com/u/99792963?s=200&v=4" width="40" title="LLaMA" style="margin: 6px;" />
-  <img src="https://avatars.githubusercontent.com/u/47718794?s=200&v=4" width="40" title="Triton" style="margin: 6px;" />
-  <img src="https://onnx.ai/assets/logo.svg" width="40" title="ONNX" style="margin: 6px;" />
 
   <!-- Vector DBs & RAG -->
   <img src="https://avatars.githubusercontent.com/u/78059591?s=200&v=4" width="40" title="Pinecone" style="margin: 6px;" />
