@@ -34,8 +34,23 @@
 ---
 
 ### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center"> <!-- OpenAI --> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="50" title="OpenAI" /> <!-- Mistral --> <img src="https://avatars.githubusercontent.com/u/139581015?s=200&v=4" width="50" title="Mistral AI" /> <!-- Hugging Face --> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_logo.svg" width="50" title="Hugging Face" /> <!-- LangChain --> <img src="https://avatars.githubusercontent.com/u/139248137?s=200&v=4" width="50" title="LangChain" /> <!-- FastAPI --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" /> <!-- Supabase --> <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="50" title="Supabase" /> <!-- Pinecone --> <img src="https://avatars.githubusercontent.com/u/78059591?s=200&v=4" width="50" title="Pinecone" /> <!-- Weaviate --> <img src="https://avatars.githubusercontent.com/u/49764446?s=200&v=4" width="50" title="Weaviate" /> <!-- Ray --> <img src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_logo.png" width="50" title="Ray" /> <!-- ONNX --> <img src="https://onnx.ai/assets/logo.svg" width="50" title="ONNX" /> <!-- Triton --> <img src="https://avatars.githubusercontent.com/u/47718794?s=200&v=4" width="50" title="Triton Inference Server" /> <!-- MLflow --> <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="50" title="MLflow" /> <!-- Docker (infra still matters) --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" /> <!-- Kubernetes --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" title="Kubernetes" /> </p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" width="40" title="OpenAI" style="margin: 8px;" />
+  <img src="https://avatars.githubusercontent.com/u/139581015?s=200&v=4" width="40" title="Mistral" style="margin: 8px;" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" title="Hugging Face" style="margin: 8px;" />
+  <img src="https://avatars.githubusercontent.com/u/139248137?s=200&v=4" width="40" title="LangChain" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" style="margin: 8px;" />
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" title="Supabase" style="margin: 8px;" />
+  <img src="https://avatars.githubusercontent.com/u/78059591?s=200&v=4" width="40" title="Pinecone" style="margin: 8px;" />
+  <img src="https://avatars.githubusercontent.com/u/49764446?s=200&v=4" width="40" title="Weaviate" style="margin: 8px;" />
+  <img src="https://raw.githubusercontent.com/ray-project/ray/master/doc/source/images/ray_logo.png" width="40" title="Ray" style="margin: 8px;" />
+  <img src="https://onnx.ai/assets/logo.svg" width="40" title="ONNX" style="margin: 8px;" />
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40" title="MLflow" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" style="margin: 8px;" />
+</p>
 
 ---
 
