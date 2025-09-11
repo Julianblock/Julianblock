@@ -32,7 +32,7 @@
 
 ### Focus
 
-- LLM architecture: GPT-4, Mistral, LangChain, RAG, embeddings
+- LLM architecture: GPT-4, Mistral, LangChain, RAG, embeddings, pgvector, vLLM
 - AI infra: FastAPI, Supabase, Pinecone, Ray, Docker, Kubernetes
 - Scientific computing: geometric modeling, 3D simulation, optics
 - Product design: scalable UIs, realtime dashboards, data pipelines
