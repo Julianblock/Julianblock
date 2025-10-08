@@ -53,18 +53,6 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://jblocktech.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/julianblock">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Julianblock">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 > 📨 **Contact:** [jblock@jblocktech.com](mailto:jblock@jblocktech.com)  
