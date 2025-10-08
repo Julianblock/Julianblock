@@ -1,53 +1,77 @@
-<h1 align="center">Julian Block</h1>
-<h3 align="center">AI Architect · Software Systems Consultant</h3>
+<h1 align="center">⚡️ Julian Block ⚡️</h1>
+<h3 align="center">AI Architect · Systems Consultant · Founder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Design;LLM+System+Engineering;Scientific+Simulation+via+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Design;LLM+Systems+Engineering;Scientific+Simulation+via+Code;Building+the+Future+One+Model+at+a+Time" alt="Typing SVG" />
 </p>
 
 ---
 
-### About
+### 🧠 About Me
 
-- Based in **Las Vegas, NV** — engineer, founder, and father.
-- Specializing in **AI systems**, **full-stack architecture**, and **scientific R&D**.
-- Founder of:
-  - **Vivvy.ai** — Real-time feedback automation using GPT and sentiment pipelines.
-  - **Dreamcatcher** — NLP-based dream analysis and subconscious pattern mapping.
-  - **Project LUX∞** — Manifold-driven AI simulation for optical physics and infinite zoom.
-- Currently building fintech and computer vision systems at **Silvr.ai**.
+- 🏜️ Based in **Las Vegas, NV** — engineer, founder, and father.  
+- 🧩 Specializing in **AI system architecture**, **LLM pipelines**, and **scientific R&D**.  
+- 🚀 Currently building **fintech**, **computer vision**, and **simulation platforms** at **Silvr.ai**.  
 
----
-
+#### 🏗️ Founder Of
+- **[Vivvy.ai](https://vivvy.ai)** — Real-time customer feedback automation using GPT, embeddings, and sentiment pipelines.  
+- **Dreamcatcher** — NLP-powered dream interpretation and subconscious mapping.  
+- **Project LUX∞** — Manifold-based AI simulation for optical physics, infinite zoom, and light path modeling.
 
 ---
 
-### Projects
+### 🔬 Projects
 
-- **Vivvy.ai** – GPT-powered customer feedback + review amplification.
-- **Project LUX∞** – Real-time manifold-based simulation of optical systems.
-- **Dreamcatcher** – Language models analyzing dream narratives and symbols.
-
----
-
-### Focus
-
-- LLM architecture: GPT-4, Mistral, LangChain, RAG, embeddings, pgvector, vLLM
-- AI infra: FastAPI, Supabase, Pinecone, Ray, Docker, Kubernetes
-- Scientific computing: geometric modeling, 3D simulation, optics
-- Product design: scalable UIs, realtime dashboards, data pipelines
+| Project | Description |
+|----------|--------------|
+| **Vivvy.ai** | GPT-driven review amplification and intelligent feedback routing for businesses. |
+| **Project LUX∞** | Real-time manifold simulation of light propagation and spacetime geometry. |
+| **Dreamcatcher** | NLP + embeddings analyzing dream narratives, symbols, and recurring subconscious patterns. |
 
 ---
 
-### Connect
+### ⚙️ Core Focus Areas
+
+#### 🧩 AI / LLM Systems
+- GPT-4, Mistral, LangChain, RAG pipelines  
+- pgvector, Pinecone, Supabase, vLLM, Ray  
+- RLHF, LoRA/QLoRA fine-tuning, model evaluation  
+
+#### 🧠 Infra & Backend
+- FastAPI, Docker, Kubernetes, Railway, Azure  
+- Async data pipelines, API orchestration, multi-tenant architecture  
+
+#### 🌌 Scientific Computing
+- Manifold math, optics simulation, 3D geometry  
+- Physics-based modeling & infinite zoom algorithms  
+
+#### 💻 Product Design
+- Scalable UI systems, motion design, and real-time dashboards  
+- Bridging human-centric design with AI precision  
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://jblocktech.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/julianblock"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Julianblock"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://jblocktech.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/julianblock">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Julianblock">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-> For collaboration or consulting inquiries:  
-> 📬 **[jblock@jblocktech.com](mailto:jblock@jblocktech.com)**
+> 📨 **Contact:** [jblock@jblocktech.com](mailto:jblock@jblocktech.com)  
+> 💭 “AI isn’t replacing humans — it’s replacing *mediocrity*.”
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianblock&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
