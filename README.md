@@ -1,61 +1,91 @@
-<h1 align="center">⚡️ Julian Block ⚡️</h1>
-<h3 align="center">AI Architect · Systems Consultant · Founder</h3>
+# ⚡ Julian Block  
+**AI Architect • Systems Consultant • Founder • Occasional Firestarter**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Design;LLM+Systems+Engineering;Scientific+Simulation+via+Code;Building+the+Future+One+Model+at+a+Time" alt="Typing SVG" />
-</p>
+> Building the future one crash log at a time.
 
----
-
-### 🧠 About Me
-
-- 🏜️ Based in **Las Vegas, NV** — engineer, founder, and father.  
-- 🧩 Specializing in **AI system architecture**, **LLM pipelines**, and **scientific R&D**.  
-- 🚀 Currently building **fintech**, **computer vision**, and **simulation platforms** at **Silvr.ai**.  
-
-#### 🏗️ Founder Of
-- **[Vivvy.ai](https://vivvy.ai)** — Real-time customer feedback automation using GPT, embeddings, and sentiment pipelines.  
-- **Dreamcatcher** — NLP-powered dream interpretation and subconscious mapping.  
-- **Project LUX∞** — Manifold-based AI simulation for optical physics, infinite zoom, and light path modeling.
+[Website](https://www.jblocktech.com) • [Vivvy.ai](https://vivvy.ai) • [Dreamcatcher](https://thedreamcatcherapp.com)
 
 ---
 
-### 🔬 Projects
+## 🧠 About Me
+
+- Based in Las Vegas, NV — where the code compiles and the dreams die.  
+- AI Architect by day, existential crisis machine by night.  
+- Wannabe musician, part-time mathematician, full-time disaster recovery plan.  
+- Currently building **fintech**, **computer vision**, and **simulation AIs** that may or may not become self-aware.  
+
+---
+
+## 🚀 Founder Of
 
 | Project | Description |
-|----------|--------------|
-| **Vivvy.ai** | GPT-driven review amplification and intelligent feedback routing for businesses. |
-| **Project LUX∞** | Real-time manifold simulation of light propagation and spacetime geometry. |
-| **Dreamcatcher** | NLP + embeddings analyzing dream narratives, symbols, and recurring subconscious patterns. |
+|----------|-------------|
+| **Vivvy.ai** | Turns bad Yelp reviews into corporate enlightenment using GPT. |
+| **Dreamcatcher** | Reads your dreams, judges your life choices, and occasionally gaslights you. |
+| **Project LUX∞** | A simulation of light, time, and poor decision-making. Basically quantum physics but sassier. |
 
 ---
 
-### ⚙️ Core Focus Areas
+## 🧩 Core Focus Areas
 
-#### 🧩 AI / LLM Systems
-- GPT-4, Mistral, LangChain, RAG pipelines  
-- pgvector, Pinecone, Supabase, vLLM, Ray  
-- RLHF, LoRA/QLoRA fine-tuning, model evaluation  
-
-#### 🧠 Infra & Backend
-- FastAPI, Docker, Kubernetes, Railway, Azure  
-- Async data pipelines, API orchestration, multi-tenant architecture  
-
-#### 🌌 Scientific Computing
-- Manifold math, optics simulation, 3D geometry  
-- Physics-based modeling & infinite zoom algorithms  
-
-#### 💻 Product Design
-- Scalable UI systems, motion design, and real-time dashboards  
-- Bridging human-centric design with AI precision  
+- **AI / LLM Systems:** GPT-4, Mistral, LangChain, RAG pipelines, and hallucinations (the model’s and mine).  
+- **Infra & Backend:** FastAPI, Docker, Supabase, and whatever cloud service just raised prices again.  
+- **Scientific Computing:** Simulating photons and explaining it to people who stopped listening two minutes ago.  
 
 ---
 
-### 🌐 Connect With Me
+## 💡 Research Interests
+
+> “What if reality is just poorly optimized code?”  
+> — Me, staring into VS Code at 3AM  
 
 ---
 
-> 📨 **Contact:** [jblock@jblocktech.com](mailto:jblock@jblocktech.com)  
-> 💭 “AI isn’t replacing humans — it’s replacing *mediocrity*.”
+## 🛠 Toolbox
+
+| Languages | Tools | Coping Mechanisms |
+|------------|-------|-------------------|
+| Python, TypeScript | FastAPI, Docker, LangChain | Coffee, sarcasm, mild screaming |
 
 ---
+
+## 🏆 Achievements
+
+- Built 3 startups, broke 4 production servers, and survived 5 existential crises.  
+- Released 6 albums as *The American Sandman* because therapy is expensive.  
+- Made a child who already has better debugging instincts than most dev teams.  
+
+---
+
+## 🎭 Fun Facts
+
+- Believes `console.log` is a valid debugging strategy.  
+- Deletes `node_modules` like it’s a cleansing ritual.  
+- Has strong opinions about semicolons and even stronger regrets.  
+- Once explained GPTs to his therapist — she quit.  
+- Motto: “It’s not a bug, it’s a feature we don’t fully understand yet.”  
+
+---
+
+## 🔥 Currently Building
+
+**Vivvy.ai** – GPT that pretends to care about your customers.  
+**Project LUX∞** – Simulating light, time, and my descent into madness.  
+**Dreamcatcher** – NLP for dream interpretation and bad life advice.
+
+---
+
+## 📈 Fun Graphs (Mentally Imagined)
+
+- Burnout: ███████████████  
+- Caffeine intake: ████████████████████  
+- Sanity: ██░░░░░░░░░░░░░░  
+- Git commits after 2AM: ██████████████████████████  
+
+---
+
+### 🌈 Closing Thought
+
+> The line between genius and madness is just a missing semicolon.  
+>  
+> Commit. Push. Pray.
