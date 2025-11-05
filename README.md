@@ -70,11 +70,55 @@ Currently shipping fintech, computer vision, and simulation AIs that might accid
 </p>
 
 ## Core Focus Areas
-**AI / LLM Systems**  
-GPT-4, Mistral, RAG pipelines, RLHF, pgvector, vLLM, Ray
 
-**Infra & Backend**  
-FastAPI, Supabase, Postgres, Docker, Railway, Redis, Azure
+### Artificial Intelligence / LLM Systems  
+Designing end-to-end intelligent architectures that blur the line between automation and cognition.  
+My stack fuses **symbolic reasoning**, **vector search**, and **generative modeling** into systems that *learn, adapt, and evolve.*
 
-**Scientific Computing**  
-Manifold simulation, light path modeling, spacetime geometry, controlled chaos
+**Key Capabilities**
+- Advanced **RAG pipelines** with memory optimization and embedding compression (pgvector + FAISS)
+- Multi-model orchestration using **vLLM**, **Mistral**, and **GPT-4**, dynamically selected by task complexity
+- Human-aligned reinforcement via **RLHF**, **constitutional tuning**, and in-context calibration
+- **Agentic frameworks** built with OpenAgents / LangChain for self-reasoning and multi-step autonomy
+- Semantic indexing, document graph traversal, and **temporal awareness** for longitudinal reasoning
+- Integration of LLMs with **scientific computing kernels** (NumPy, SymPy, PyTorch) for mixed symbolic-numeric reasoning  
+- Real-time model streaming, adaptive token throttling, and self-healing inference pipelines
+
+> Goal: Not just “AI that answers questions,” but **AI that builds, tests, and rewrites itself.**
+
+---
+
+### Infrastructure & Backend Intelligence  
+Systems designed to scale, survive, and self-diagnose.  
+Every container, job queue, and function is built around the idea that infrastructure should *think.*
+
+**Core Stack**
+- **FastAPI / Supabase / Postgres** backbone with async microservices for distributed inference
+- **Dockerized orchestration** deployed via Railway / Azure / Kubernetes with automated state syncing  
+- Event-driven queues using **Redis / Celery** for load-balanced AI task pipelines  
+- RAG microservices that continuously vectorize incoming data and auto-version prompt logic  
+- AI-assisted DevOps agents that predict bottlenecks and auto-scale based on semantic workload
+- **Supabase pgvector** integration for persistent LLM memory and vector reasoning across tenants
+
+> Infrastructure isn’t a stack — it’s an **ecosystem of cooperative intelligence.**
+
+---
+
+### Scientific & Computational AI  
+Building models that simulate physics, light, and consciousness itself.  
+Where AI meets mathematics, optics, and chaos theory.
+
+**Focus Domains**
+- **Manifold simulation** for curved spacetime and geodesic-based optical modeling  
+- **Inverse optics and photon path reconstruction** through differentiable geometry  
+- **Quantum-inspired computation** using probabilistic manifolds and topological reasoning  
+- Neural field experimentation blending **SDFs**, **NeRFs**, and **parametric surfaces**  
+- Predictive material intelligence — training AI to model how light *feels* across curvature
+- **Chaos engineering**, but applied to physical simulation: embracing entropy as data
+
+> Not just teaching machines to see — teaching them to *perceive.*
+
+---
+
+### In Short
+I build systems that reason like scientists, deploy like engineers, and hallucinate like poets.
