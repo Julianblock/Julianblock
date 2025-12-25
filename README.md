@@ -1,2 +1,2 @@
 # Julian Block  
-**AI Architect & Software Engineer**
+**AI Architect & Principal Software Engineer**
