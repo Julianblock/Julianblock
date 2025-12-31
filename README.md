@@ -2,9 +2,6 @@
 **Mad Scientist**
 <br />
 **....With Wicked AI Chops**
-
-<br />
-
 **...and God's favorite Vibe Coder**
 
 <br />
