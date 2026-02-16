@@ -1,5 +1,5 @@
 <!-- Dark / Red / Hacker Aesthetic README -->
-
+<div style="background: #000">
 <h1 align="center" style="color:#8b0000;">
 JULIAN BLOCK
 </h1>
@@ -33,3 +33,4 @@ LLMs • RAG • Vector Search • Backend Systems
 <p align="center" style="color:#3d0a0a; font-size:12px;">
 Code over hype. Systems over demos.
 </p>
+</div>
