@@ -22,6 +22,20 @@ Most of what I've shipped was client work under NDA in logistics, fintech and pa
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Julianblock/projects/tree/main/korena"><img src="./assets/work/korena.jpg" alt="Korena" width="100%"/></a>
+      <h3><a href="https://github.com/Julianblock/projects/tree/main/korena">Korena</a></h3>
+      <p>Guitar Center's music store and companion app: tuner, metronome, gear locker, and one-tap restock next to 87,000 instruments in stock.</p>
+      <p><sub>Client: Guitar Center · 2026 · Web storefront, iPhone and Android app</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Julianblock/projects/tree/main/silvr"><img src="./assets/work/silvr.jpg" alt="Silvr" width="100%"/></a>
+      <h3><a href="https://github.com/Julianblock/projects/tree/main/silvr">Silvr</a></h3>
+      <p>Snap a photo or a screenshot of an outfit and get the exact pieces, or the closest matches, across hundreds of retailers.</p>
+      <p><sub>Client: Silvr Limited · 2026 · iOS and Android app</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/Julianblock/projects/tree/main/pitch-practice"><img src="./assets/work/pitch-practice.jpg" alt="Pitch Practice" width="100%"/></a>
       <h3><a href="https://github.com/Julianblock/projects/tree/main/pitch-practice">Pitch Practice</a></h3>
       <p>Retail reps practice sales conversations by voice with AI customers and get scored against their company's playbook.</p>
