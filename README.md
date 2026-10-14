@@ -17,8 +17,6 @@ The work I enjoy most is where AI turns into something a person can actually use
 
 Most of what I've shipped was client work under NDA in logistics, fintech and payments, cannabis and wellness, and media streaming, so the source stays private. The [projects repo](https://github.com/Julianblock/projects) covers each one instead: the problem, what I built, an architecture diagram, and screenshots.
 
-Outside of work I'm a father, a wannabe musician, and a wannabe mathematician.
-
 ## Selected work
 
 <table>
