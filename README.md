@@ -39,7 +39,7 @@ Most of what I've shipped was client work under NDA in logistics, fintech and pa
       <a href="https://github.com/Julianblock/projects/tree/main/pitch-practice"><img src="./assets/work/pitch-practice.jpg" alt="Pitch Practice" width="100%"/></a>
       <h3><a href="https://github.com/Julianblock/projects/tree/main/pitch-practice">Pitch Practice</a></h3>
       <p>Retail reps practice sales conversations by voice with AI customers and get scored against their company's playbook.</p>
-      <p><sub>Own product · 2026 · Next.js, Expo, Supabase, OpenAI Realtime API</sub></p>
+      <p><sub>Client: Guitar Center · 2026 · Next.js, Expo, Supabase, OpenAI Realtime API</sub></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Julianblock/projects/tree/main/eden-earth"><img src="./assets/work/eden-earth.jpg" alt="Eden Earth" width="100%"/></a>
