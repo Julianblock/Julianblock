@@ -92,15 +92,6 @@ Most of what I've shipped was client work under NDA in logistics, fintech and pa
   </tr>
 </table>
 
-## What I work with
-
-<table>
-  <tr><td><b>AI</b></td><td>OpenAI Realtime API, GPT-4, Gemini, Pinecone vector search</td></tr>
-  <tr><td><b>Web</b></td><td>TypeScript, React, Next.js, Vue.js, Gatsby</td></tr>
-  <tr><td><b>Mobile</b></td><td>React Native, Expo, Bluetooth LE</td></tr>
-  <tr><td><b>Backend and data</b></td><td>Node.js, Flask, PHP, Supabase, MySQL, GraphQL, Strapi, Azure Functions</td></tr>
-</table>
-
 ## Get in touch
 
 If you're working on something where AI, mobile, or messy real-world data meet, I'd like to hear about it: [jblock@jblocktech.com](mailto:jblock@jblocktech.com).
