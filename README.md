@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.jpg"/>
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.jpg"/>
-    <img src="./assets/banner-light.jpg" alt="Julian Block. Software engineer in Pasadena, CA. I design and build AI products, mobile apps, and the systems behind them." width="100%"/>
+    <img src="./assets/banner-light.jpg" alt="Julian Block. Software engineer in Pasadena, CA. I design and build AI products, mobile apps, games, and the systems behind them." width="100%"/>
   </picture>
 </a>
 
@@ -46,6 +46,20 @@ Most of what I've shipped was client work under NDA in logistics, fintech and pa
       <h3><a href="https://github.com/Julianblock/projects/tree/main/eden-earth">Eden Earth</a></h3>
       <p>Before-and-after cleanup photos become an AI estimate of the litter kept out of waterways.</p>
       <p><sub>Own product · 2025 – present · Expo, Next.js, Supabase, Gemini</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Julianblock/projects/tree/main/searchlight"><img src="./assets/work/searchlight.jpg" alt="Searchlight, Nevada" width="100%"/></a>
+      <h3><a href="https://github.com/Julianblock/projects/tree/main/searchlight">Searchlight, Nevada</a></h3>
+      <p>Fly as a desert bird over an old Mojave gold-mining town, built from real terrain and survey data. <a href="https://julianblock.github.io/Searchlight-game/">Play it in the browser.</a></p>
+      <p><sub>Own game · 2026 · three.js, WebGL, TypeScript</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Julianblock/projects/tree/main/sutter-buttes"><img src="./assets/work/sutter-buttes.jpg" alt="Sutter Buttes" width="100%"/></a>
+      <h3><a href="https://github.com/Julianblock/projects/tree/main/sutter-buttes">Sutter Buttes</a></h3>
+      <p>Fly as a bird over California's volcanic Sutter Buttes, with seasons, weather, and rebuilt farm towns. <a href="https://julianblock.github.io/sutter-buttes-game/">Play it in the browser.</a></p>
+      <p><sub>Own game · 2026 · three.js, WebGL, TypeScript</sub></p>
     </td>
   </tr>
   <tr>
